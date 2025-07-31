@@ -1,0 +1,11 @@
+# Windows system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+System Volume Information/
+
+# Logs / Output
+*.log
+*.tmp
+*.bak
